@@ -65,3 +65,6 @@ Thumbs.db
 *.gif
 *.pdf
 !screenshots/
+
+*.pages
+*.pdf
